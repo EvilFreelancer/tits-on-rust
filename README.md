@@ -1,6 +1,14 @@
-# Tits on Rust
+# Project T.I.T.S on Rust
 
 Two beautiful tits written on Rust
+
+## How to build
+
+Just run `make` form project root folder. 
+
+On next step you need execute `./tits`. 
+
+## Example of result
 
     ----0-----------0--0-----------0----
     ---0----RRRR-----00----RRRR-----0---
